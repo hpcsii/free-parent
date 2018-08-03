@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bop-parent/bop-common/bop-common.iml" filepath="$PROJECT_DIR$/bop-parent/bop-common/bop-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bop-parent/bop-parent.iml" filepath="$PROJECT_DIR$/bop-parent/bop-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bop-parent/bop-web/bop-web.iml" filepath="$PROJECT_DIR$/bop-parent/bop-web/bop-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/free-parent.iml" filepath="$PROJECT_DIR$/free-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mca-parent/mca-common/mca-common.iml" filepath="$PROJECT_DIR$/mca-parent/mca-common/mca-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mca-parent/mca-parent.iml" filepath="$PROJECT_DIR$/mca-parent/mca-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/router-parent/router-common/router-common.iml" filepath="$PROJECT_DIR$/router-parent/router-common/router-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/router-parent/router-parent.iml" filepath="$PROJECT_DIR$/router-parent/router-parent.iml" />
+    </modules>
+  </component>
+</project>

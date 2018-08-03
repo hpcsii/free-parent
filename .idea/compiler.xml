@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bop-common" />
+        <module name="bop-web" />
+        <module name="mca-common" />
+        <module name="router-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bop-common" target="1.7" />
+      <module name="bop-parent" target="1.7" />
+      <module name="bop-web" target="1.7" />
+      <module name="free-parent" target="1.7" />
+      <module name="mca-common" target="1.7" />
+      <module name="mca-parent" target="1.7" />
+      <module name="router-common" target="1.7" />
+      <module name="router-parent" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
